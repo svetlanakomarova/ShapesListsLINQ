@@ -1,5 +1,10 @@
 ﻿using System;
 
+/**
+ *
+ * @author Svetlana Komarova
+ */
+
 namespace ShapesListsLINQ
 {
     // Create a class Circle that inherits from Shape.

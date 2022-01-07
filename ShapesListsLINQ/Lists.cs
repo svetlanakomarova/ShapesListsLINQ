@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
+/**
+ *
+ * @author Svetlana Komarova
+ */
+
 namespace ShapesListsLINQ
 {
     class Lists

@@ -1,4 +1,9 @@
-﻿namespace ShapesListsLINQ
+﻿/**
+ *
+ * @author Svetlana Komarova
+ */
+
+namespace ShapesListsLINQ
 {
     // Create a class Rectangle that also inherits Shape.
     // The constructor initializes the Length and Width properties. 

@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Linq;
 
+/**
+ *
+ * @author Svetlana Komarova
+ */
+
 namespace ShapesListsLINQ
 {
     class LINQ

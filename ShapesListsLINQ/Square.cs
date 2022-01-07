@@ -1,4 +1,9 @@
-﻿namespace ShapesListsLINQ
+﻿/**
+ *
+ * @author Svetlana Komarova
+ */
+
+namespace ShapesListsLINQ
 {
     // Create a class Square that inherits Rectangle.
     // The constructor initializes the Side property.

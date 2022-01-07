@@ -1,4 +1,9 @@
-﻿namespace ShapesListsLINQ
+﻿/**
+ *
+ * @author Svetlana Komarova
+ */
+
+namespace ShapesListsLINQ
 {
     class Student
     {

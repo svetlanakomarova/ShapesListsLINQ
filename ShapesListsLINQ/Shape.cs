@@ -1,4 +1,9 @@
-﻿namespace ShapesListsLINQ
+﻿/**
+ *
+ * @author Svetlana Komarova
+ */
+
+namespace ShapesListsLINQ
 {
     // Create a class Shape that has two methods Area()
     // and Perimeter(), having return types as double.

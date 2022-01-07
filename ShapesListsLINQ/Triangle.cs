@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+ *
+ * @author Svetlana Komarova
+ */
+
+using System;
 
 namespace ShapesListsLINQ
 {
