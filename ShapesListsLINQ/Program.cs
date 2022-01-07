@@ -2,7 +2,8 @@
   Name: Svetlana Komarova
   Student Number: 123456789
   Assignment: Assignment 1
-
+  Date: 10/12/2021
+  
   PROG32356 .Net Technologies using C#
 */
 using System;
